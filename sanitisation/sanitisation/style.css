@@ -1,0 +1,244 @@
+body{
+    background-color: lightpink;
+}
+.logo{
+    float: left;
+    background-color: lightpink;
+}
+.main-1{
+    font-size: 4em;
+    margin-left: 475px;
+    border-right: 50px;
+}
+.main-2{
+    font-size: 2.5em;
+    margin-left: 600px;
+}
+.button{
+    text-align: center;
+    margin-left: 550px;
+}
+.button button{
+    background-color: limegreen;
+    border: 1px solid green;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+}
+.button button:not(:last-child){
+    border-right: none;
+}
+.button::after{
+    content: "";
+    clear: both;
+    display: table;
+}
+.img-1{
+    float: right;
+    margin-right: 150px;
+}
+.qua-1{
+    font-size: 1.4em;
+    color: blue;
+    margin-left: 50px;
+    text-decoration: underline;
+}
+.qua-2{
+    font-size: 1.25em;
+    margin-left: 50px;
+}
+.main-3{
+    font-size: 1.25em;
+    margin-left: 50px;
+}
+.img-2{
+    float: right;
+    margin-right: 150px; 
+}
+.main-4{
+    font-size: 1.4em;
+    margin-left: 50px;
+    text-decoration: underline;
+    color: blue;
+}
+.main-5{
+    font-size: 1.25em;
+    margin-left: 50px;
+}
+.info-1{
+    text-align: center;
+    color: blue;
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+.info-2{
+    font-size: 1.25em;
+    text-align: center;
+}
+.footer{
+    text-align: center;
+}
+.main-6{
+    font-size: 2.5em;
+    margin-left: 700px;
+}
+.img-3{
+    float: left;
+    margin-left: 50px;
+}
+.fm-1{
+    font-size: 1.4em;
+    color: blue;
+    text-decoration: underline;
+}
+.fm-2{
+    font-size: 1.25em;
+    margin-left: 25em;
+}
+.fm-3{
+    font-size: 1.25em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.fm-4{
+    text-align: center;
+    color: blue;
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+.fm-5{
+    font-size: 1.25em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.fs-1{
+    text-align: center;
+    color: blue;
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+.fs-2{
+    font-size: 1.25em;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 50px;
+}
+.fs-3{
+    font-size: 2.5em;
+    margin-left: 660px;
+}
+.fs-4{
+    font-size: 1.25em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.img-4{
+    float: right;
+    margin-right: 50px;
+}
+.main-7{
+    font-size: 2.5em;
+    margin-left: 600px;
+}
+.g-1{
+    margin-right: 500px;
+    color: blue;
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+.g-2{
+    font-size: 1.25em;
+    float: left;
+}
+.g-3{
+    font-size: 1.25em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.main-8{
+    font-size: 2.5em;
+    margin-left: 650px;
+}
+.hs-1{
+    margin-left: 690px;
+    color: blue;
+    font-size: 1.4em;
+    text-decoration: underline;
+}
+.hs-2{
+    font-size: 1.25em;
+    margin-left: 20em;
+    margin-top: 3em;
+}
+.hs-3{
+    font-size: 1.4em;
+    margin-left: 50px;
+    text-decoration: underline;
+    color: blue;
+    margin-top: 2px;
+}
+.hs-4{
+    font-size: 1.25em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.main-9{
+    font-size: 2.5em;
+    margin-left: 600px;
+}
+.ther-1{
+    margin-left: 660px;
+    color: blue;
+    font-size: 1.4em;
+    text-decoration: underline; 
+}
+.img-5{
+    float: right;
+    margin-right: 150px;
+}
+.ther-2{
+    font-size: 1.25em;
+    margin-left: 50px;
+    margin-right: 500px;
+    margin-top: 8px;
+}
+.ther-3{
+    font-size: 1.25em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.number{
+    font-size: 1.5em;
+    text-align: center;
+}
+img-6{
+    float: right;
+    margin-right: 150px;
+}
+.img-9{
+    float: left;
+
+}
+.img-10{
+    float: left;
+}
+
+    
+
+.butt button{
+    background-color: limegreen;
+    border: 1px solid green;
+    color: white;
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+}
+.butt button:not(:last-child){
+    border-right: none;
+}
+.butt::after{
+    content: "";
+    clear: both;
+    display: table;
+}
