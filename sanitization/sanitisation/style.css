@@ -1,5 +1,10 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
 body{
     background-color: lightpink;
+    opacity: 0.6;
 }
 .logo{
     float: left;
